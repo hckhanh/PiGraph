@@ -1,2 +1,2 @@
 language: csharp
-solution: PiGraph 3.0.sln
+solution: "PiGraph 3.0.sln"
