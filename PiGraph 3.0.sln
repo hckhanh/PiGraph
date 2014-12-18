@@ -1,0 +1,125 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddFunction", "AddFunction\AddFunction.csproj", "{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "References", "References\References.csproj", "{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelsGraphLibrary", "PixelsGraph\PixelsGraphLibrary.csproj", "{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiGraph", "MainMenu\PiGraph.csproj", "{6C2585E6-A4BC-48AF-B706-A1BC02E10250}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Components", "Components", "{7C1D4395-0204-4915-A747-D8AADF1A2BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTangentialLine", "AddTangentialLine\AddTangentialLine.csproj", "{57B880B2-41BB-44A7-92C8-53FD314C8612}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dragon8001.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = AddFunction\\AddFunction.csproj
+		SccProjectTopLevelParentUniqueName0 = PiGraph\u00202.0.sln
+		SccProjectName0 = AddFunction
+		SccLocalPath0 = AddFunction
+		SccProjectUniqueName1 = AddTangentialLine\\AddTangentialLine.csproj
+		SccProjectTopLevelParentUniqueName1 = PiGraph\u00202.0.sln
+		SccProjectName1 = AddTangentialLine
+		SccLocalPath1 = AddTangentialLine
+		SccProjectUniqueName2 = MainMenu\\PiGraph.csproj
+		SccProjectName2 = MainMenu
+		SccLocalPath2 = MainMenu
+		SccProjectUniqueName3 = PixelsGraph\\PixelsGraphLibrary.csproj
+		SccProjectTopLevelParentUniqueName3 = PiGraph\u00202.0.sln
+		SccProjectName3 = PixelsGraph
+		SccLocalPath3 = PixelsGraph
+		SccProjectUniqueName4 = References\\References.csproj
+		SccProjectTopLevelParentUniqueName4 = PiGraph\u00202.0.sln
+		SccProjectName4 = References
+		SccLocalPath4 = References
+		SccLocalPath5 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|Win32.ActiveCfg = Release|Any CPU
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67}.Release|x86.ActiveCfg = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|Win32.ActiveCfg = Release|Any CPU
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B}.Release|x86.ActiveCfg = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|Win32.ActiveCfg = Release|Any CPU
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|Win32.ActiveCfg = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|Win32.Build.0 = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|x86.ActiveCfg = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Debug|x86.Build.0 = Debug|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|Any CPU.ActiveCfg = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|Win32.ActiveCfg = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|Win32.Build.0 = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|x86.ActiveCfg = Release|x86
+		{6C2585E6-A4BC-48AF-B706-A1BC02E10250}.Release|x86.Build.0 = Release|x86
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|Win32.ActiveCfg = Release|Any CPU
+		{57B880B2-41BB-44A7-92C8-53FD314C8612}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1D1C691-2A59-4CC9-8BCC-C7E98749348B} = {7C1D4395-0204-4915-A747-D8AADF1A2BC6}
+		{F6FE1B85-8A41-4571-980C-55B36F7D1E5A} = {7C1D4395-0204-4915-A747-D8AADF1A2BC6}
+		{7DEBF6FE-E2B3-4F56-97D5-81D448E0FF67} = {7C1D4395-0204-4915-A747-D8AADF1A2BC6}
+		{57B880B2-41BB-44A7-92C8-53FD314C8612} = {7C1D4395-0204-4915-A747-D8AADF1A2BC6}
+	EndGlobalSection
+EndGlobal
