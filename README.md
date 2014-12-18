@@ -1,6 +1,8 @@
 ![Pigraph logo](Image/Pigraph_Logo.png)
 PiGraph
 =======
+[![Build Status](https://travis-ci.org/hckhanh/PiGraph.svg?branch=master)](https://travis-ci.org/hckhanh/PiGraph)
+
 Phần mềm hỗ trợ khảo sát đồ thị hàm số
 
 Tác giả
