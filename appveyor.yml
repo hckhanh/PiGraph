@@ -1,4 +1,3 @@
 version: 1.0.{build}
 build:
-  project: PiGraph 3.0.sln
   verbosity: minimal
