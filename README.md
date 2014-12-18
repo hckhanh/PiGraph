@@ -1,7 +1,7 @@
+![Pigraph logo](Image/Pigraph_Logo.png)
 PiGraph
 =======
 Phần mềm hỗ trợ khảo sát đồ thị hàm số
-
 
 Tác giả
 -------
