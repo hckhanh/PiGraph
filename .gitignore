@@ -24,5 +24,6 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
-# Except "lib" folder
+# Except libs folder
 !/lib/**
+!**/Dependencies/**
