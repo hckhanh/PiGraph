@@ -1,0 +1,8 @@
+version: 1.0.{build}
+build:
+  verbosity: minimal
+deploy:
+- provider: GitHub
+  auth_token:
+    secure: cxgAlTlZUJq2SIV8sb38NxF0weDQMaoJl8etZICKIDoZ23Gah1+UIeZQAT9Dbwpr
+  artifact: MainMenu\bin\Debug\PiGraph.exe
